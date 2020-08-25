@@ -12,7 +12,7 @@
 
 
 
-### <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/icons/rss-logo.png" alt="Latest Blog Post" width="30"> Latest Blog Post
+### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
