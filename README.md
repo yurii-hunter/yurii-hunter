@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---------------
-### Contact Me:
+### Connect with me:
 
 <a href="https://t.me/yura_hunter" target="_blank">
     <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/icons/tg-logo.png" alt="Telegram" width="30">
