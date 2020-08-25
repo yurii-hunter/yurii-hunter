@@ -20,3 +20,7 @@
 <a href="https://www.linkedin.com/in/yurii-myslyvets-41475770" target="_blank">
     <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/icons/in-logo.png" alt="LinkedIn" width="30">
 </a>
+
+<a href="https://bugshunter.io/" target="_blank">
+    <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/icons/bg-logo.png" alt="bugshunter" width="30">
+</a>
