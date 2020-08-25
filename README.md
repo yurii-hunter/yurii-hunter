@@ -13,6 +13,11 @@
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Как я писал telegram бот с админкой на Django. Часть 2](https://bugshunter.io/telegram-bot-and-django-admin-2/)
+- [Как я писал telegram бот с админкой на Django](https://bugshunter.io/telegram-bot-and-django-admin/)
+- [Как добавить docker runner к GitHub Actions](https://bugshunter.io/setup-runner-digitalocean/)
+- [Мои GTD правила](https://bugshunter.io/my-pomodoro-rules/)
+- [Как подключиться к процессу для отладки?](https://bugshunter.io/debug-third-party-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ---------------
