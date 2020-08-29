@@ -1,4 +1,6 @@
-### About Me:
+# Hi, I'm Yura
+
+<img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/cover.png" alt="banner about 89 Studio">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
