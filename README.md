@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/cover.png" alt="banner about 89 Studio">
 
-I'm software engineer who is passionate about making chat bots. I recently started working on new project - [raction](http://t.me/ractionbot) which is telegram bot for adding comments and reaction to your posts.
+I'm software engineer who is passionate about making chat bots. I recently started working on new project - [raction bot](http://t.me/ractionbot) which is telegram bot for adding comments and reaction to your posts. It is still in progress and I'm trying to figure out all business process of running new product. Starting from development and ending with marketing and sales. 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
