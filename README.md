@@ -2,18 +2,9 @@
 
 <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/cover.png" alt="banner about 89 Studio">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm software engineer who is passionate about making chat bots. I recently started working on new project - [raction](http://t.me/ractionbot) which is telegram bot for adding comments and reaction to your posts.
 
-
-
-### Latest Blog Post
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Как я писал telegram бот с админкой на Django. Часть 2](https://bugshunter.io/telegram-bot-and-django-admin-2/)
 - [Как я писал telegram бот с админкой на Django](https://bugshunter.io/telegram-bot-and-django-admin/)
@@ -22,9 +13,8 @@
 - [Как подключиться к процессу для отладки?](https://bugshunter.io/debug-third-party-process/)
 <!-- BLOG-POST-LIST:END -->
 
+### Find me around the web:
 ---------------
-### Connect with me:
-
 <a href="https://t.me/yura_hunter" target="_blank">
     <img src="https://github.com/yurii-hunter/yurii-hunter/blob/master/icons/tg-logo.png" alt="Telegram" width="30">
 </a>
