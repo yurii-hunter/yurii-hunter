@@ -6,11 +6,11 @@ I'm software engineer who is passionate about making chat bots. I recently start
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как я начал использовать GTD](https://bugshunter.io/my-gtd-rules/)
 - [Как я писал telegram бот с админкой на Django. Часть 2](https://bugshunter.io/telegram-bot-and-django-admin-2/)
 - [Как я писал telegram бот с админкой на Django](https://bugshunter.io/telegram-bot-and-django-admin/)
 - [Как добавить docker runner к GitHub Actions](https://bugshunter.io/setup-runner-digitalocean/)
 - [Мои GTD правила](https://bugshunter.io/my-pomodoro-rules/)
-- [Как подключиться к процессу для отладки?](https://bugshunter.io/debug-third-party-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me around the web:
